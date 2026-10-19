@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "author": "Jaris",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/miplugin.js",
+      "filename": "miplugin.js",
       "enabled": true,
       "formats": ["m3u8", "mp4"],
       "contentLanguage": ["es"]
