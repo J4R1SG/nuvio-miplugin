@@ -1,12 +1,12 @@
 {
   "name": "Mis plugins de Nuvio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scrapers": [
     {
       "id": "miplugin",
       "name": "MiPlugin",
       "description": "Busca por TMDB ID y extrae el m3u8/mp4 del reproductor",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Jaris",
       "supportedTypes": ["movie", "tv"],
       "filename": "miplugin.js",
