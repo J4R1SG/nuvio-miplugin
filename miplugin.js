@@ -8,7 +8,7 @@
  */
 
 var PROVIDER_NAME = "MiPlugin";
-var BASE_URL = "https://ejemplo.com";
+var BASE_URL = "https://cinehaxplus.com/";
 var USER_AGENT = "Mozilla/5.0";
 
 // Dominio del sitio sin protocolo ni "www." (para armar las regex de enlaces)
